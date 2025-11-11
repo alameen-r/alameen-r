@@ -30,7 +30,6 @@
 - Added order management with email notifications, invoice generation, and inventory updates.  
 - Designed a responsive user dashboard for profile management and order tracking.  
 
-🔗 [View Project Repository](#) *(Add your GitHub repo link here)*  
 
 ---
 
@@ -40,7 +39,6 @@
 - Designed a clean, responsive UI using HTML, CSS, and Bootstrap.  
 - Focused on usability, data persistence, and scalable code structure.  
 
-🔗 [View Project Repository](#) *(Add your GitHub repo link here)*  
 
 ---
 
