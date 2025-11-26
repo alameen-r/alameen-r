@@ -25,20 +25,23 @@
 ## 💼 Projects
 
 ### 🛍️ **E-Commerce Website**  
-*Python, Django, SQLite, JavaScript, HTML, CSS*  
+*Python, Django, SQLite, JavaScript, HTML, CSS, Bootstrap*  
 - Built a full-featured e-commerce platform with product categorization, cart system, and secure payment integration.  
 - Added order management with email notifications, invoice generation, and inventory updates.  
-- Designed a responsive user dashboard for profile management and order tracking.  
+- Designed a responsive user dashboard for profile management and order tracking.
+
+🔗 **Live Demo:** [Try the App](https://vybezone.onrender.com/)
 
 
 ---
 
-### ✅ **To-Do List App**  
+### ✅ **To Do List App**  
 *Python, Flask, SQLite, HTML, CSS*  
 - Developed a Flask-based task manager with CRUD operations and user authentication.  
 - Designed a clean, responsive UI using HTML, CSS, and Bootstrap.  
 - Focused on usability, data persistence, and scalable code structure.  
 
+🔗 **Live Demo:** [Try the App](https://todolist-flax-seven.vercel.app/)
 
 ---
 
