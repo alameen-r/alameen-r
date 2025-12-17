@@ -45,6 +45,17 @@
 
 ---
 
+### 🛍️ **Portfolio Website**  
+*Django, Python, HTML, CSS, JavaScript, SQLite*  
+- Built a fully responsive personal portfolio with dynamic project and skill management via Django admin
+- Implemented a mobile-friendly layout optimized for performance, accessibility, and clean navigation
+- Integrated a functional contact form with email notifications and secure database storage.
+
+🔗 **Live Demo:** [Try the App](https://alameenr.pythonanywhere.com/)
+
+
+---
+
 ## 📘 Professional Development
 
 **Python Full Stack Development Course | Uniq Technologies, Chennai (Mar 2025 – Aug 2025)**  
