@@ -5,12 +5,12 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🌍 Based in **Chennai, Tamil Nadu, India**  
-- 💻 Completed **Python Full Stack Development Course** at Uniq Technologies (Mar 2025 – Aug 2025)  
-- 💡 Currently exploring **Machine Learning fundamentals** and how it integrates with web technologies  
-- 🚀 Focused on becoming a well-rounded developer through hands-on projects and continuous learning  
+- Based in **Chennai, Tamil Nadu, India**  
+- Completed **Python Full Stack Development Course** at Uniq Technologies (Mar 2025 – Aug 2025)  
+- Currently exploring **Machine Learning fundamentals** and how it integrates with web technologies  
+- Focused on becoming a well-rounded developer through hands-on projects and continuous learning  
 
 ---
 
