@@ -24,7 +24,7 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 
 ## Projects
 
-### 🛍️ **E-Commerce Website**  
+### **E-Commerce Website**  
 *Python, Django, SQLite, JavaScript, HTML, CSS, Bootstrap*  
 - Built a full-featured e-commerce platform with product categorization, cart system, and secure payment integration.  
 - Added order management with email notifications, invoice generation, and inventory updates.  
@@ -41,7 +41,7 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 - Designed a clean, responsive UI using HTML, CSS, and Bootstrap.  
 - Focused on usability, data persistence, and scalable code structure.  
 
-🔗 **Live Demo:** [Try the App](https://todolist-flax-seven.vercel.app/)
+**Live Demo:** [Try the App](https://todolist-flax-seven.vercel.app/)
 
 ---
 
@@ -51,7 +51,7 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 - Implemented a mobile-friendly layout optimized for performance, accessibility, and clean navigation
 - Integrated a functional contact form with email notifications and secure database storage.
 
-🔗 **Live Demo:** [Try the App](https://alameenr.pythonanywhere.com/)
+**Live Demo:** [Try the App](https://alameenr.pythonanywhere.com/)
 
 
 ---
