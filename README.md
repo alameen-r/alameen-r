@@ -1,7 +1,7 @@
 #  Hi, I'm **Alameen R**
 
 **Aspiring Full-Stack Web Developer** passionate about building clean, functional, and scalable web applications.  
-I enjoy crafting responsive user interfaces, writing efficient backend logic, and continuously learning new technologies that drive real-world impact.
+I build modern, scalable web applications with clean, responsive interfaces and reliable backend logic, turning real world ideas into practical, user friendly solutions.
 
 ---
 
@@ -32,7 +32,6 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 
  **Live Demo:** [Try the App](https://vybezone.onrender.com/)
 
-
 ---
 
 ### **To Do List App**  
@@ -48,7 +47,7 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 ### **Portfolio Website**  
 *Django, Python, HTML, CSS, JavaScript, SQLite*  
 - Built a fully responsive personal portfolio with dynamic project and skill management via Django admin
-- Implemented a mobile-friendly layout optimized for performance, accessibility, and clean navigation
+- Implemented a mobile-friendly layout optimised for performance, accessibility, and clean navigation
 - Integrated a functional contact form with email notifications and secure database storage.
 
 **Live Demo:** [Try the App](https://alameenr.pythonanywhere.com/)
@@ -66,18 +65,12 @@ I enjoy crafting responsive user interfaces, writing efficient backend logic, an
 
 ---
 
-## Career Goals
-
-I aim to combine my analytical background and growing technical skills to develop **innovative digital solutions** that bridge **technology and real-world usability**.  
-I’m eager to **collaborate**, **contribute**, and **grow** as a developer in dynamic, forward-thinking teams.
-
----
-
 ## Connect with Me
 
 **Email:** [alameenrd@gmail.com](mailto:alameenrd@gmail.com)  
 **LinkedIn:** [linkedin.com/in/alameenr](https://www.linkedin.com/in/alameenr)  
-**GitHub:** [github.com/alameen-r](https://github.com/alameen-r)  
+**GitHub:** [github.com/alameen-r](https://github.com/alameen-r) 
+**Portfolio** [Alameenr_Portfolio](https://alameenr.pythonanywhere.com/)
 
 ---
 
