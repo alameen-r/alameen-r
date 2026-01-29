@@ -69,8 +69,7 @@ I build modern, scalable web applications with clean, responsive interfaces and 
 
 **Email:** [alameenrd@gmail.com](mailto:alameenrd@gmail.com)  
 **LinkedIn:** [linkedin.com/in/alameenr](https://www.linkedin.com/in/alameenr)  
-**GitHub:** [github.com/alameen-r](https://github.com/alameen-r) 
-
+**GitHub:** [github.com/alameen-r](https://github.com/alameen-r)   
 **Portfolio** [Alameenr_Portfolio](https://alameenr.pythonanywhere.com/)
 
 ---
